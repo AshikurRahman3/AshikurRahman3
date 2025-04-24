@@ -1,4 +1,4 @@
-<h1 align="center">~ Hey, I'm Ashikur Rahman ~</h1>
+<h1 align="center">~ Hi, I'm Ashikur Rahman ~</h1>
 
 🎓 Studied Computer Science & Engineering  at [SUST](https://www.sust.edu/)  
 🧑‍💻 Passionate about competitive programming, building practical software and solving real-world problems  
