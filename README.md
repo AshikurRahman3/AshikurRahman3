@@ -46,7 +46,7 @@ I’ve solved **300+ problems** on various online judges including:
 ### 📫 Let's Connect
 
 📬 Email: [ashikur.rahman9656@gmail.com](mailto:ashikur.rahman9656@gmail.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/ashikurrahman3](https://www.linkedin.com/in/ashikurrahman3/)
+🔗 LinkedIn: [linkedin.com/in/ashikurrahman3](https://www.linkedin.com/in/ashikurrahman3/)
 
 
 <!--
